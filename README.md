@@ -1,2 +1,8 @@
 # test-front
-simple front
+
+# start
+
+```
+pnpm install --frozen-lockfile
+pnpm dev
+```
